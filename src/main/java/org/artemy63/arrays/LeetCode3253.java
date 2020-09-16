@@ -1,4 +1,4 @@
-package org.artemy63;
+package org.artemy63.arrays;
 
 import java.util.Arrays;
 

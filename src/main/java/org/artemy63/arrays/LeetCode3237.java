@@ -1,4 +1,4 @@
-package org.artemy63;
+package org.artemy63.arrays;
 
 /**
  * Given an array nums of integers, return how many of them contain an even number of digits.
