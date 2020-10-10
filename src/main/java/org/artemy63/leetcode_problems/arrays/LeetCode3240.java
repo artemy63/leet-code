@@ -1,4 +1,4 @@
-package org.artemy63.arrays;
+package org.artemy63.leetcode_problems.arrays;
 
 import java.util.Arrays;
 
