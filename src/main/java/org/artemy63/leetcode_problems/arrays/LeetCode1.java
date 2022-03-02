@@ -33,7 +33,7 @@ import java.util.Map;
  * -10^9 <= target <= 10^9
  * Only one valid answer exists.
  */
-public class LeetCodeTwoSum {
+public class LeetCode1 {
 
     public static int[] twoSum(int[] sourceArr, int target) {
         return approachTwo(sourceArr, target);
